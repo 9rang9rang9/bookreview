@@ -1,5 +1,3 @@
-import 'package:bookreview/src/test/detail.dart';
-import 'package:bookreview/src/test/home.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
@@ -17,16 +15,7 @@ class _AppState extends State<App> {
     super.initState();
     router = GoRouter(
       initialLocation: '/',
-      routes: [
-        GoRoute(
-          path: '/',
-          builder: (context, state) => const Home(),
-        ),
-        GoRoute(
-          path: '/detail',
-          builder: (context, state) => const Detail(),
-        ),
-      ],
+      routes: [],
     );
     // route
   }

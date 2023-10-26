@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324070497466",
+    "project_id": "bookreview-app-sample-01",
+    "storage_bucket": "bookreview-app-sample-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324070497466:android:df3f5d76d0cdc85fdb7683",
+        "android_client_info": {
+          "package_name": "com.ranglife.bookreview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTO1qUDxA2IW2aheEEuEkqNVnGglE1cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

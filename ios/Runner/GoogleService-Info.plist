@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyASwd3bmgx7NHRfO25XYel_cVUgltEn2ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>324070497466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ranglife.bookreview.bookreview</string>
+	<key>PROJECT_ID</key>
+	<string>bookreview-app-sample-01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookreview-app-sample-01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:324070497466:ios:039dbf91bad4641fdb7683</string>
+</dict>
+</plist>

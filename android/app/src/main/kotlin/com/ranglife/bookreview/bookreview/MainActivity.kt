@@ -1,4 +1,4 @@
-package com.ranglife.bookreview.bookreview
+package com.ranglife.bookreview
 
 import io.flutter.embedding.android.FlutterActivity
 
