@@ -1,7 +1,7 @@
 import 'package:bookreview/src/common/components/app_font.dart';
 import 'package:bookreview/src/common/cubit/app_data_load_cubit.dart';
 import 'package:bookreview/src/common/enum/common_state_status.dart';
-import 'package:bookreview/src/common/splash/cubit/splash_cubit.dart';
+import 'package:bookreview/src/splash/cubit/splash_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
